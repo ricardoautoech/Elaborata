@@ -1,0 +1,11 @@
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\Mod9.Repository.dll.config
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\Mod9.Repository.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\Mod9.Repository.pdb
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\obj\Debug\Mod9.Repository.csprojAssemblyReference.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\obj\Debug\Mod9.Repository.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\obj\Debug\Mod9.Repository.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Repository\obj\Debug\Mod9.Repository.pdb

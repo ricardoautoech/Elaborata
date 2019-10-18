@@ -1,0 +1,14 @@
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Business.deps.json
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Business.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Business.pdb
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Repository.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Repository.pdb
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\Mod9.Repository.dll.config
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.csprojAssemblyReference.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.AssemblyInfoInputs.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.AssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.dll
+C:\Users\Aluno\Source\Repos\Mod9\Mod9.Business\obj\Debug\netstandard2.0\Mod9.Business.pdb

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\bin\Debug\Mod9.exe.config
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\bin\Debug\Mod9.exe
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.View.csprojAssemblyReference.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\MainWindow.g.cs
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\App.g.cs
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9_MarkupCompile.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9_MarkupCompile.lref
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\MainWindow.baml
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.g.resources
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.View.csproj.GenerateResource.cache
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.exe
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\obj\Debug\Mod9.pdb
+C:\Users\Aluno\Source\Repos\Mod9\Mod9\bin\Debug\Mod9.pdb
