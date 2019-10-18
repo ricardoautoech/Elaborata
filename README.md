@@ -1,3 +1,3 @@
 # Elaborata
 Coisas de cursos
-Hoje ta dificelificel
+Hoje ta dificel
